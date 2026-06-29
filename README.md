@@ -1,2 +1,2 @@
 # amazon_order_system
-Backend development and design for Amazon order system
+Building a Mini Amazon backend with Spring Boot and Microservices
